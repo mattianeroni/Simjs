@@ -22,10 +22,6 @@ A timeout is a particular process which cause a delay.
 Simjs provides an extendible class called Resource. Every resource can manage a queue of requests. Users can deal with resources by using commends "request" and "release" exactly as in Simpy.
 
 
-### Library Docs
-https://github.com/mattianeroni/simjs
-
-
 ### Examples
 
 #### Example 0. Simjs implementation basics
