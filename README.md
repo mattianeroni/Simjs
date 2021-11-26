@@ -1,5 +1,5 @@
 ## Simjs
-A library for discrete events simulation in JavaScript (Node.js)
+A library for discrete events simulation in JavaScript (Node.js) and inspired by Simpy (Python).
 Copyright (c) 2019-2020 Mattia Neroni mattianeroni@yahoo.com
 
 ### Features
